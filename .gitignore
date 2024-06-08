@@ -5,3 +5,5 @@ Cargo.lock
 third_party
 /Cargo.toml
 out/
+.direnv
+.devenv
